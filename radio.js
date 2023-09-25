@@ -4,7 +4,8 @@ const prevButton = document.getElementById('prev-button');
 const nextButton = document.getElementById('next-button');
 
 const songs = [
-    'radiomp3/'
+    'radiomp3/musica 1.mp3',
+    
     'radiomp3/Como Nossos Pais(MP3_160K).mp3',
     'radiomp3/EVIL(MP3_160K).mp3',
     'radiomp3/Foi Mal(MP3_160K).mp3',
