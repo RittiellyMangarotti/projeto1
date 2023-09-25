@@ -39,7 +39,7 @@ function playPrev() {
 
 loadSong();
 
-playPauseButton.addEventListener('click', playPause);
+
 nextButton.addEventListener('click', playNext);
 prevButton.addEventListener('click', playPrev);
 
