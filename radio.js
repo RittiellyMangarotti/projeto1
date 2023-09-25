@@ -4,7 +4,10 @@ const prevButton = document.getElementById('prev-button');
 const nextButton = document.getElementById('next-button');
 
 const songs = [
-    'radiomp3/musica 1.mp3',
+    
+    <audio controls>
+	<source src="musica 1.mp3" type="audio/mpeg">
+</audio>
     
 ];
 
