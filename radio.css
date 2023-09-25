@@ -67,7 +67,7 @@ audio {
 }
 
 button {
-    background-color: black;
+    background-color:rgba(0, 128, 0, 1);
     color: black;
     border: none;
     padding: 10px 20px;
