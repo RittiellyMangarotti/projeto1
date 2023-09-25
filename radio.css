@@ -86,7 +86,7 @@ button:hover {
 
 #play-pause-button {
     background-color:LightGrey;
-    color: black;
+    color: LightGrey;
 }
 
 #play-pause-button:hover {
