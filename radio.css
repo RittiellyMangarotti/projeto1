@@ -85,12 +85,13 @@ button:hover {
 }
 
 #play-pause-button {
-    background-color: orange;
+    background-color: gray
+    ;
     color: black;
 }
 
 #play-pause-button:hover {
-    background-color: grey;
+    background-color: gray;
 }
 
 .neon-glow {
