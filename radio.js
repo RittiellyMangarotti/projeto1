@@ -5,10 +5,6 @@ const nextButton = document.getElementById('next-button');
 
 const songs = [
     
-    <audio controls>
-	<source src="musica 1.mp3" type="audio/mpeg">
-</audio>
-    
 ];
 
 let currentSongIndex = 0;
