@@ -1,5 +1,5 @@
 body {
-    background-color: Lavender;
+    background-color: lavender;
     color: white;
     font-family: Arial, sans-serif;
     text-align: center;
@@ -85,13 +85,12 @@ button:hover {
 }
 
 #play-pause-button {
-    background-color: gray
-    ;
+    background-color:LightGrey;
     color: black;
 }
 
 #play-pause-button:hover {
-    background-color: gray;
+    background-color: LightGrey;
 }
 
 .neon-glow {
