@@ -24,15 +24,6 @@ function loadSong() {
     audio.src = songs[currentSongIndex];
 }
 
-function playPause() {
-    if (audio.paused) {
-        audio.play();
-        playPauseButton.textContent = 'Pause';
-    } else {
-        audio.pause();
-        playPauseButton.textContent = 'Play';
-    }
-}
 
 function playNext() {
     currentSongIndex = (currentSongIndex + 1) % songs.length;
