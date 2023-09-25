@@ -20,10 +20,10 @@ body {
 
 @keyframes neonGlow {
     0% {
-        filter: brightness(1.5) drop-shadow(0 0 10px Plum);
+        filter: brightness(1.5) drop-shadow(0 0 10px white);
     }
     100% {
-        filter: brightness(1) drop-shadow(0 0 5px Plum);
+        filter: brightness(1) drop-shadow(0 0 5px white);
     }
 }
 
