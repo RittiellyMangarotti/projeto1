@@ -13,7 +13,7 @@ const songs = [
     'musicas/musica 7.mp3',
     'musicas/musica 8.mp3',
     'musicas/musica 9.mp3',
-    'musicas/musica 10.mp3',
+    'musicas/musica 10.mp3'
     
     
 ];
