@@ -6,16 +6,6 @@ const nextButton = document.getElementById('next-button');
 const songs = [
     'radiomp3/musica 1.mp3',
     
-    'radiomp3/Como Nossos Pais(MP3_160K).mp3',
-    'radiomp3/EVIL(MP3_160K).mp3',
-    'radiomp3/Foi Mal(MP3_160K).mp3',
-    'radiomp3/Giant Woman (feat. Zach Callison)(MP3_160K).mp3',
-    'radiomp3/Greta Van Fleet - Light My Love (Audio)(MP3_160K).mp3',
-    'radiomp3/Infinity Pools(MP3_160K).mp3',
-    'radiomp3/The Principal(MP3_160K).mp3',
-    'radiomp3/The Technicolors - Howl (Official Music Video)(MP3_160K).mp3',
-    'radiomp3/URIAS - DANGER ( OFFICIAL VISUALIZER)(MP3_160K).mp3',
-    'radiomp3/Wait a Minute_(MP3_160K).mp3',
 ];
 
 let currentSongIndex = 0;
