@@ -31,6 +31,16 @@ function playNext() {
     audio.play();
 }
 
+function playPause() {
+    if (audio.paused) {
+        audio.play();
+        playPauseButton.textContent = 'Pause';
+    } else {
+        audio.pause();
+        playPauseButton.textContent = 'Play';
+    }
+}
+
 function playPrev() {
     currentSongIndex = (currentSongIndex - 1 + songs.length) % songs.length;
     loadSong();
